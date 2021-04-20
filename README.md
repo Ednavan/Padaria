@@ -1,6 +1,7 @@
 # Padaria
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.7.
+UTILIZANDO HTML5 CSS3 E COMUNICAÇÃO COM FIREBASE EM TEMPO REAL
 
 ## Development server
 
